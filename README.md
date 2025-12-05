@@ -7,6 +7,9 @@ Google AdMob App Development Challenge
 Team: Code Buddies
 Category: Entertainment / Hyperlocal / Meme & Humor
 
+PRD Video : https://drive.google.com/file/d/1mpLXg6qfLWuBle0-4Rb0gOM3yLYmlqjY/view?usp=sharing
+POC Prototype Video : https://drive.google.com/file/d/1IrTk6G7ncNajZPu0hdnir-BckGeqNb0W/view?usp=sharing
+
 1. Introduction
 
 Indian Nukkad is a hyperlocal micro-entertainment application designed to bring the everyday humor, warmth, and familiarity of Indian neighborhoods to users across the country. Rooted in nostalgia and inspired by culturally recognizable formats such as TMKOC-style dialogues, Indian Nukkad offers snackable, emotionally resonant, and highly shareable content tailored to the user's locality.
